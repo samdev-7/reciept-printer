@@ -1,0 +1,15 @@
+{
+  "name": "reciept-printer",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@point-of-sale/receipt-printer-encoder": "^3.0.2",
+    "@point-of-sale/webserial-receipt-printer": "^2.0.0",
+    "@point-of-sale/webusb-receipt-printer": "^2.0.0"
+  }
+}
